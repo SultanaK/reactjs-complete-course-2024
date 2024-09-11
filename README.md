@@ -43,10 +43,11 @@ Introduction<br>
  useRef hook<br>
  useMemo hook<br>
  useCallback<br>
- React query/Tanstack Query<br>
+ React query<br>
+ Tanstack Query<br>
  Shopping Cart<br>
- React firebase auth
- Redux toolkit
- React with Zustand
- Unit testing using Jest and React Testing Library
- MERN Stack task management app
+ React firebase auth<br>
+ Redux toolkit<br>
+ React with Zustand<br>
+ Unit testing using Jest and React Testing Library<br>
+ MERN Stack task management app<br>
